@@ -46,7 +46,7 @@
   padding: 0;
   /* margin: 0px; */
   margin-bottom: 0;
-  color: #2c7bd0;
+  color: #0a6395;
   font-size: 11px;
 }
 
@@ -57,6 +57,7 @@
 .blog__list {
   margin-left: 7px;
   font-size: 11.5px;
+  color: #0a6395;
 }
 
 .blog__list p {
@@ -112,6 +113,7 @@
 
 .right__content a {
 	font-size: 9px;
+  color: #0a6395;
 }
 
 .horo__smaller {
@@ -139,11 +141,12 @@
 	position: absolute;
   margin-top: 157px;
   font-size: 11px;
-	color: #2c7bd0;
+	color: #0a6395;
 }
 
 .horo__text--blue a {
   text-decoration: none;
+  color: #0a6395;
 }
 
 .news {
@@ -166,12 +169,13 @@
 .news p {
   margin-top: 74px;
   margin-left: 22px;
-  color: #2c7bd0;
+  color: #0a6395;
   font-size: 11px;
 }
 
 .news a {
   text-decoration: none;
+  color: #0a6395;
 }
 
 .competions label {
