@@ -1,6 +1,8 @@
 .container {
 	margin: 0 auto;
 	width: 302px;
+  height: auto;
+  min-height: 645px;
 	/*height: 645px;*/
 	background-image: url("pic_background.png");
 	background-size: cover;
