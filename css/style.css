@@ -1,7 +1,7 @@
 .container {
 	margin: 0 auto;
 	width: 302px;
-	height: 645px;
+	/*height: 645px;*/
 	background-image: url("pic_background.png");
 	background-size: cover;
 }
@@ -18,13 +18,13 @@
 }
 
 .blog__white {
-	height: 70px;
+	/*height: 70px;*/
 }
 
 .blog__white--left {
 	float: left;
 	width: 136px;
-	height: 60px;
+	/*height: 60px;*/
 }
 
 .blog__white--left img {
@@ -38,7 +38,7 @@
 	float: left;
 	margin-left: 6px;
   margin-top: -16px;
-	height: 84px;
+	/*height: 84px;*/
 	width: 100px;
 }
 
@@ -71,7 +71,7 @@
 	position: absolute;
   margin-left: 28px;
   margin-top: 205px;
-  height: 190px;
+  /*height: 190px;*/
 }
 
 .horoscopes > span {
@@ -82,7 +82,7 @@
 .horo__left {
 	float: left;
 	width: 92px;
-	height: 131px;
+	/*height: 131px;*/
 }
 
 .horo__left img {
@@ -95,7 +95,7 @@
 	position: relative;
 	float: left;
 	width: 154px;
-	height: 131px;
+	/*height: 131px;*/
 }
 
 .horo__right p {
@@ -154,7 +154,7 @@
 	position: absolute;
   margin-top: 410px;
   margin-left: 29px;
-  height: 113px;
+  /*height: 113px;*/
   width: 246px;
   font-size: 13px;
 }
